@@ -1,3 +1,3 @@
-/node_modules
-/config/config.env
-/package-lock.json
+\backend\node_modules
+\backend\config/config.env
+\backend\package-lock.json
